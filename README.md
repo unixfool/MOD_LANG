@@ -1,2 +1,1 @@
-# MOD_LANG
-All module translation from DesarrollarIA.com
+# All module translation from DesarrollarIA.com (Tranducciones)
