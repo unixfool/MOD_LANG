@@ -1,1 +1,2 @@
-# All module translation from DesarrollarIA.com (Tranducciones)
+# All module translation
+DesarrollarIA.com (Tranducciones)
